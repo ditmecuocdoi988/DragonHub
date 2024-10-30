@@ -1,0 +1,6 @@
+Config = {
+name script = *DragonHub*,--tên Script
+logoscript = *117158364947414",--ID Logo Script
+tacgia = "Tieens"--tên tác giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CheemsNhuChiAl/Sotringhuhu/main/StrawberryHubBeta1.35"))()
